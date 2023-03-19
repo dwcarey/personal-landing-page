@@ -49,6 +49,7 @@ h2 {
 
 .image-container {
     max-width: 75%;
+    min-width: 75%;
     border: solid 10px #440000;
     display: flex;
     border-radius: 12px;
